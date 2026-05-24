@@ -32,5 +32,10 @@
 ![](OS/factorial_threads2.png)
 
 
+## Лабораторная работа №2
+### Создание Виртруальной машины
+[Видео здесь](https://github.com/Hanfeiter/laboratoros1/blob/main/2026-05-24%2021-03-07.mp4)
+
+
 
 
