@@ -1,29 +1,29 @@
 # Операционные системы
 # 1 лабораторная
 ### Реализации факториала на с++
-![](pngFILE/OS/Заголовочный файл.png)
+![](pngFILE/OS/Header.png)
 
 ![](pngFILE/OS/Реализация.png)
 
-![](pngFILE/OS/проверка работы функции.png)
+![](pngFILE/OS/maincpp.png)
 ### Makefile
 ![](pngFILE/OS/OS/Makefile.png)
 ### Многопоточная версия c факториалом 15 и 20.
 ![](pngFILE/OS/factorial_threads.png)
 
 ### проверка на работу кода 
-![](pngFILE/OS/проверка корректности работы программы.png)
+![](pngFILE/OS/proverka2.png)
 
 ### компилация в код для ассемблера
-![](pngFILE/OS/компиляция программы в ассемблерный код.png)
+![](pngFILE/OS/compl.png)
 
 ### без оптимизации
-![](pngFILE/OS/factorial_O0.png
+![](pngFILE/OS/factorial_O0.png)
 
 ### c -O3 оптимизацией 
 ![](pngFILE/OS/factorial_O3.png)
 ### Переписываем Makefile
-![](pngFILE/OS/переписанный Makefile.png)
+![](pngFILE/OS/anotherMakeFile.png)
 
 ### запуск Makefile
 ![](pngFILE/Createtabl.PNG)
@@ -31,8 +31,8 @@
 
 ![](pngFILE/Createtabl.PNG)
 
-### Переписал файл с многопоточностью.
-![](pngFILE/OS/переписанная factorial_threads.png)
+### Переписал файл с многопоточностью 
+![](pngFILE/OS/factorial_threads2.png)
 
 
 
