@@ -23,7 +23,7 @@
 ### С -O3 оптимизацией 
 ![](OS/factorial_O3.png)
 ### Переписываем Makefile
-![](OS/anotherMakeFile.png)
+![](OS/Makefile2.png)
 
 ### Запуск Makefile
 ![](OS/proverka2.png)
