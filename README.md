@@ -11,25 +11,22 @@
 ### Многопоточная версия c факториалом 15 и 20.
 ![](pngFILE/OS/factorial_threads.png)
 
-### проверка на работу кода 
-![](pngFILE/OS/proverka2.png)
+### Проверка на работу кода 
+![](pngFILE/OS/Zapusk.png)
 
-### компилация в код для ассемблера
+### Компилация в код для ассемблера
 ![](pngFILE/OS/compl.png)
 
-### без оптимизации
+### Без оптимизации
 ![](pngFILE/OS/factorial_O0.png)
 
-### c -O3 оптимизацией 
+### С -O3 оптимизацией 
 ![](pngFILE/OS/factorial_O3.png)
 ### Переписываем Makefile
 ![](pngFILE/OS/anotherMakeFile.png)
 
-### запуск Makefile
-![](pngFILE/Createtabl.PNG)
-
-
-![](pngFILE/Createtabl.PNG)
+### Запуск Makefile
+![](pngFILE/OS/proverka2.png)
 
 ### Переписал файл с многопоточностью 
 ![](pngFILE/OS/factorial_threads2.png)
